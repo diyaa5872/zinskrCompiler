@@ -1,6 +1,8 @@
 # .NET Core
 bin/
 obj/
+mc/bin/
+mc/obj/
 *.user
 *.rsuser
 *.suo
@@ -28,3 +30,43 @@ logs/
 
 # Auto-generated files
 Generated_Code/
+
+mc/packages/
+
+.idea/
+.idea_modules/
+
+.project
+.settings
+.classpath
+.cproject
+.pydevproject
+.mymetadata
+
+Thumbs.db
+ehthumbs.db
+
+Desktop.ini
+
+*.sln
+*.csproj
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.slnx
+*.csproj.user
+
+mc/packages/
+
+# NuGet packages
+*.nupkg
+
+# Log files
+*.log
+
+# Generated files
+*.generated.cs
+
+# Miscellaneous
+*.vs/

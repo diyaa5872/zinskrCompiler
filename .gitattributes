@@ -1,0 +1,14 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Explicitly declare text files you want to always be normalized and converted
+*.cs text
+*.csproj text
+*.sln text
+*.md text
+
+# Declare binary files
+*.dll binary
+*.exe binary
+*.png binary
+*.jpg binary
